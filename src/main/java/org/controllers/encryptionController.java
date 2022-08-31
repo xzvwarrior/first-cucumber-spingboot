@@ -1,4 +1,4 @@
-package org.example;
+package org.controllers;
 
 import com.google.crypto.tink.Aead;
 import com.google.crypto.tink.HybridEncrypt;
